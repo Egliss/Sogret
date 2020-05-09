@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Sogret": {
+      "commandName": "Project",
+      "commandLineArgs": "x64\\Debug\\",
+      "workingDirectory": "$(SolutionDir)CppProject\\"
+    }
+  }
+}
